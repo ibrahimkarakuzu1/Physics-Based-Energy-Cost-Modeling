@@ -2,7 +2,7 @@
 
 **Day 3** focuses on replacing geometric heuristics with physics-based constraints.
 
-## 🇬🇧 English
+## English
 
 ###  Objective
 To develop a mathematical model that predicts energy consumption for a vehicle traversing 3D terrain, accounting for **Gravity** and **Friction**.
