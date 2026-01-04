@@ -22,7 +22,7 @@ $$Cost (Joules) = d \cdot (F_g + F_f)$$
 ###  Simulation Results
 Comparing two paths of equal length (1000m):
 * **Path A (Flat):** Only overcomes friction. Low energy cost.
-* **Path B (Slope):** Must overcome gravity. Energy cost spikes by **~240%**.
+* **Path B (Slope):** Must overcome gravity. Energy cost spikes by **+250%**.
 
 ---
 
